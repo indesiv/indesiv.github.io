@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://indesiv.github.io/sitemap.html.gz
+Sitemap: https://indesiv.github.io/app/sitemap.html.gz
+Sitemap: https://indesiv.github.io/assets/sitemap.html.gz
+Sitemap: https://indesiv.github.io/css/sitemap.html.gz
+Sitemap: https://indesiv.github.io/includes/sitemap.html.gz
+Sitemap: https://indesiv.github.io/item/sitemap.html.gz
+Sitemap: https://indesiv.github.io/src/sitemap.html.gz
